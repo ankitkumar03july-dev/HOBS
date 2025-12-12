@@ -136,7 +136,7 @@ const Header = () => {
                 />
               </div>
               <div className="hidden sm:block border-l border-border pl-3">
-                <span className="text-muted-foreground text-sm font-medium">Hind Ordnance &<br />Ballistics Systems</span>
+                <span className="text-muted-foreground text-sm font-medium">Hind Ordnance & <br />Ballistics Systems</span>
               </div>
             </Link>
           </div>
