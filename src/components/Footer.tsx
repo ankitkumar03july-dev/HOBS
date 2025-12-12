@@ -106,7 +106,7 @@ const Footer = () => {
                   className="h-16 w-auto object-contain mix-blend-multiply"
                 />
                 <span className="text-muted-foreground text-sm font-medium mt-2">
-                  Hind Ordnance &<br />Ballistics Systems
+                  Hind Ordnance & <br />Ballistics Systems
                 </span>
               </div>
             </Link>
